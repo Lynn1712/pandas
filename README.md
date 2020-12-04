@@ -1,2 +1,2 @@
 # pandas
-Pandas Framework
+Pandas Framework Cheatsheet for YISI students
